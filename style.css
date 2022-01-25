@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Tahoma", serif;
+}
+
+body{
+    padding-top: 40px;
+    min-height: 100vh;
+    width: 100vw;
+}
+
+.weeks__days{
+    width: 60%;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+h1, p{
+    font-size: 20px;
+}
+
+.currDay{
+    font-weight: 800;
+}
